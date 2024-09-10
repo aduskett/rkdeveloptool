@@ -9,3 +9,7 @@ config.status
 configure
 rkdeveloptool
 rkdeveloptool*bz2
+cmake-build-debug/
+cmake-build-release/
+build/
+.idea/
